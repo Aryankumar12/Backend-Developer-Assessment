@@ -10,9 +10,7 @@ Backend API for an experiences marketplace with JWT authentication and role-base
 - Prisma ORM
 - JWT + bcrypt
 
-## Setup Instructions
 
-### 1. Install dependencies
 ```bash
 npm install
 
